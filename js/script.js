@@ -29,7 +29,7 @@ for (const element of buttons) {
 
 document.getElementById('discover-btn')
     .addEventListener('click',function(){
-        window.location.href = '../blog.html';
+        window.location.href = 'blog.html';
 })
 
 let d = new Date();
